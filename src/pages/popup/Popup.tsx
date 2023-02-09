@@ -17,7 +17,7 @@ export default function Popup(): JSX.Element {
         >
           Learn React!
         </a>
-        <p>Popup styled with TailwindCSS!</p>
+        <p>Popup styled with TailwindCSS!!!</p>
       </header>
     </div>
   );

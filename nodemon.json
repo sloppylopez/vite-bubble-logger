@@ -1,7 +1,4 @@
 {
-  "env": {
-    "__DEV__": "true"
-  },
   "watch": [
     "src", "utils", "vite.config.ts"
   ],

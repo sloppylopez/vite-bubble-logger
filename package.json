@@ -10,7 +10,7 @@
   },
   "scripts": {
     "build": "vite build",
-    "dev": "nodemon"
+    "dev": "nodemon -L"
   },
   "type": "module",
   "dependencies": {
